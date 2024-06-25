@@ -1,11 +1,12 @@
 {
-  "name": "creator-2.0.5",
-  "version": "1.0.1",
+  "name": "creator-engine-2x",
+  "version": "1.0.0",
   "description": "engine",
-  "main": "cocos2d-js-for-preview.js",
+  "main": "cocos2d-js.js",
   "typings": "creator.d.ts",
   "scripts": {
-    "test": "node ./test.js"
+    "test": "node ./test.js",
+    "server": "mini-server"
   },
   "author": "",
   "license": "ISC"

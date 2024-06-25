@@ -1,0 +1,3 @@
+
+
+使用debug版本的cocos2d-js即可，因为webpack自己会做压缩
